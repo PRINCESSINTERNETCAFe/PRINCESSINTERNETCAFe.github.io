@@ -476,8 +476,8 @@ a {
       transition: none; } }
 
 .resume-item {
-  padding: 30px;
-  background: rgb(240, 240, 240);
+  padding: 20px;
+  background: rgb(250, 250, 250);
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
